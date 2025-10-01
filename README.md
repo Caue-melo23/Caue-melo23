@@ -36,7 +36,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 16 years old, currently living in Brazil. I have fluency in English and have experience with  Python,HTML,CSS and  Learning JS. 
+  - 💬 I am 17 years old, currently living in Brazil. I have fluency in English and have experience with  Python,HTML,CSS and  Learning JS. 
 
   - ⚡ I enjoy watching movies and playing games!. \o/
 </details>
@@ -51,7 +51,7 @@
 
 <!-- GIF -->
 <p align="left">
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlhb2RpOWViMjk1MHhqcHg1bW1sMW9rYjQ2Nnl5NTJqOHRiNXlxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWNYw8eu0UKKA/giphy.gif" width="500">
 </p>
 
 ## 🔥 Skills
