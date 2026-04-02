@@ -51,7 +51,7 @@
 
 <!-- GIF -->
 <p align="left">
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlhb2RpOWViMjk1MHhqcHg1bW1sMW9rYjQ2Nnl5NTJqOHRiNXlxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWNYw8eu0UKKA/giphy.gif" width="500">
+ <img src="images.jpg" width="500">
 </p>
 
 ## 🔥 Skills
