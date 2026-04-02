@@ -1,5 +1,5 @@
 ````md
-<h1 align="center">💻⚡ SWAG DEV PROFILE ⚡💻</h1>
+<h1 align="center">💻⚡ SWAG  ⚡💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=30&center=true&vCenter=true&width=700&lines=SWAG+MODE+ACTIVATED+😈;PHP+JS+REACT+DEV+🔥;CODE+EAT+SLEEP+REPEAT..." />
@@ -13,13 +13,13 @@
 
 ---
 
-## 🧠 Sobre mim
+ Sobre mim
 ```diff
-+ Nome: Seu Nome
-+ Stack: Full Stack Developer
++ Meloo
++ Stack: Front end Developer
 + Foco: Web & Mobile
-+ Estilo: SWAG 😎🔥
-````
+ SWAG 😎🔥
+
 
 ---
 
