@@ -1,76 +1,91 @@
-<summary><h1 style="display: inline-block" >Hello World</h1></summary>
+````md
+<h1 align="center">💻⚡ SWAG DEV PROFILE ⚡💻</h1>
 
-### Hello, I'm Caue🙋🏻‍♂️
-
-### Etec📚
-### Dev Frontend👨🏻‍💻
-
-### Skils🚀
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![CSS](    https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-
-### 🌱I’m currently learning
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Daily use
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <div id="user-content-toc">
-  <ul align="center">
-   
-    Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom. 
-</div>
-
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Cauê!  A passionate Science computer student from Brazil.
-
-  - 🔭 I am looking for my first job opportunity.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=30&center=true&vCenter=true&width=700&lines=SWAG+MODE+ACTIVATED+😈;PHP+JS+REACT+DEV+🔥;CODE+EAT+SLEEP+REPEAT..." />
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+---
 
-  - 💬 I am 17 years old, currently living in Brazil. I have fluency in English and have experience with  Python,HTML,CSS and  Learning JS. 
-
-  - ⚡ I enjoy watching movies and playing games!. \o/
-</details>
-
-<!-- Links -->
-
-
-<!-- GithubStats -->
-
-
-<!-- Portfolio -->
-
-<!-- GIF -->
-<p align="left">
- <img src="images.jpg" width="500">
+<p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="500"/>
 </p>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+---
 
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
-  
+## 🧠 Sobre mim
+```diff
++ Nome: Seu Nome
++ Stack: Full Stack Developer
++ Foco: Web & Mobile
++ Estilo: SWAG 😎🔥
+````
 
+---
 
-  
+## 🚀 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,nodejs" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+## ⚡ Tech Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Linguagens mais usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🖤 SWAG ZONE
+
+<p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SWAG-DEV-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NO-BUGS-ALLOWED-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/24/7-CODING-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="https://github.com/SEU_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:000000&height=140&section=footer"/>
+</p>
+```
