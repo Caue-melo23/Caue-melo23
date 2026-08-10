@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">💻⚡ SWAG  ⚡💻</h1>
 
 <p align="center">
@@ -11,19 +11,19 @@
   <img src="https://i.gifer.com/7efs.gif" width="500"/>
 </p>
 
----
 
- Sobre mim
-```diff
+
+ 
+
 + Meloo
 + Stack: Front end Developer
 + Foco: Web & Mobile
  SWAG 😎🔥
 
 
----
 
-## 🚀 Skills
+
+ 🚀 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,html,css,react,nodejs" />
@@ -53,7 +53,7 @@
 
 ---
 
-## 🧠 Linguagens mais usadas
+ 🧠 Linguagens mais usadas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true"/>
@@ -61,7 +61,7 @@
 
 ---
 
-## 🖤 SWAG ZONE
+ 🖤
 
 <p align="center">
   <img src="https://i.gifer.com/ZZ5H.gif" width="400"/>
@@ -75,7 +75,7 @@
 
 ---
 
-## 🌐 Contato
+🌐 Contato
 
 <p align="center">
   <a href="https://github.com/SEU_USERNAME">
@@ -88,4 +88,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:000000&height=140&section=footer"/>
 </p>
-```
+
