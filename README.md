@@ -5,11 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=30&center=true&vCenter=true&width=700&lines=SWAG+MODE+ACTIVATED+😈;PHP+JS+REACT+DEV+🔥;CODE+EAT+SLEEP+REPEAT..." />
 </p>
 
----
 
-<p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="500"/>
-</p>
 
 
 
